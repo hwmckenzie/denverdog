@@ -15,4 +15,4 @@ There are a lot of dogs in this house! One of the humans sat with me in a kennel
 
 I'm a bit confused about where my first family is and why I'm living here now, but it seems ok. I am all tucked in for the night in a crate right beside the humans' bed, so I think it will be ok.
 
-![]({{ site.baseurl }}/assets/img/denver-signoff.jpg)
+![]({{ site.baseurl }}/assets/img/denver-signoff2.jpg)
