@@ -14,3 +14,5 @@ A little while ago one of the small humans in my first family fell on me. My new
 There are a lot of dogs in this house! One of the humans sat with me in a kennel so I could get used to the resident dogs without being too crowded. I met Revi, who is the friendliest. Then I met Sadie who is very old and a bit grumpy. Next was Riblet. I think Riblet might be fun, but she seems a bit stand-offish so far. Last I got to meet Seuss, who is a very big Shepherd dog (like me!) and who is a bit scary and seems to own all the toys.
 
 I'm a bit confused about where my first family is and why I'm living here now, but it seems ok. I am all tucked in for the night in a crate right beside the humans' bed, so I think it will be ok.
+
+![]({{ site.baseurl }}/assets/img/denver-signoff.jpg)
